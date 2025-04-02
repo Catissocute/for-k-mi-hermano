@@ -5,7 +5,7 @@ var b1 = document.getElementById("btn1");
 var x = 0;
 
 function next(){
-       window.location = '';
+       window.location = 'main.html';
        
 }
 
