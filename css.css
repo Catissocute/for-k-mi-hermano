@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+#t1{
+    color: azure;
+}
+#btn1{
+    height: 100px;
+    width: 150px;
+    font-size:25px;
+    border-width: 0cm;
+    background-color:beige;
+}
